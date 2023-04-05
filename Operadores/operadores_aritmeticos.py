@@ -19,7 +19,7 @@ exponente = 12 ** 5
 print(exponente)
 
 #division baja
-division_baja = 12 // 5
+division_baja = 12 // 5 #devuelve un entero, redondea para abajo
 
 print(division_baja)
 
