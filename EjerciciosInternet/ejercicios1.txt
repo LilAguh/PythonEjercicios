@@ -1,0 +1,41 @@
+Estos ejercicios se los pedi a ChatGPT, vemos que onda
+
+*Escribir un programa que imprima "¡Hola, mundo!" en la pantalla.
+
+*Escribir un programa que lea dos números enteros desde el teclado y muestre su suma.
+
+*Escribir un programa que lea un número entero desde el teclado y determine si es par o impar.
+
+*Escribir un programa que calcule el área de un círculo dado su radio.
+
+*Escribir un programa que calcule el área de un triángulo dado su base y altura.
+
+*Escribir un programa que calcule el área y el perímetro de un rectángulo dado su ancho y altura.
+
+*Escribir un programa que convierta grados Celsius a grados Fahrenheit.
+
+*Escribir un programa que lea una cadena de texto desde el teclado y muestre su longitud.
+
+*Escribir un programa que lea una cadena de texto desde el teclado y muestre la cantidad de veces que aparece una letra dada en la cadena.
+
+*Escribir un programa que lea una lista de números enteros desde el teclado y muestre la suma de todos ellos.
+
+*Escribir un programa que lea una lista de números enteros desde el teclado y muestre el número más grande y el número más pequeño de la lista.
+
+*Escribir un programa que lea una lista de números enteros desde el teclado y muestre los números pares de la lista.
+
+*Escribir un programa que lea una lista de números enteros desde el teclado y muestre los números impares de la lista.
+
+*Escribir un programa que lea una lista de números enteros desde el teclado y muestre los números que son múltiplos de 3.
+
+*Escribir un programa que lea una lista de números enteros desde el teclado y muestre la suma de los números que son múltiplos de 3.
+
+*Escribir un programa que lea una lista de números enteros desde el teclado y muestre la media de los números de la lista.
+
+*Escribir un programa que lea dos cadenas de texto desde el teclado y muestre si son iguales o no.
+
+*Escribir un programa que lea una cadena de texto desde el teclado y muestre la cantidad de vocales que tiene.
+
+*Escribir un programa que lea una lista de números enteros desde el teclado y muestre los números que se repiten en la lista.
+
+*Escribir un programa que lea una lista de números enteros desde el teclado y muestre los números que no se repiten en la lista.
