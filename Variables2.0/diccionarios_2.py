@@ -34,5 +34,7 @@ diccionario = dict.fromkeys(['nombre','apellido','color','pais']) #Tiene que esc
 diccionario = dict.fromkeys('ABCDE', True)# {'A': True, 'B': True, 'C': True, 'D': True, 'E': True}
 
 #Como primer valor se le puede ingresar una lista tambien
-diccionario = dict.fromkeys(['nombre','apellido'], 'No se sabe')
+diccionario = dict.fromkeys(['nombre','apellido'], 'No se sabe')#{'nombre': 'No se sabe', 'apellido': 'No se sabe'}
+
+
 print(diccionario)
